@@ -8,3 +8,5 @@ Branch1: dev1 working here
 File 1 Branch 2
 >>>>>>> branch2
 
+New file here
+
